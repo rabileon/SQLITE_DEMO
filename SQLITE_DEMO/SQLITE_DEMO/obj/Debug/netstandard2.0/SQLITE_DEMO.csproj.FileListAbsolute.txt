@@ -1,0 +1,15 @@
+C:\Users\RABI\source\repos\SQLITE_DEMO\SQLITE_DEMO\SQLITE_DEMO\bin\Debug\netstandard2.0\SQLITE_DEMO.deps.json
+C:\Users\RABI\source\repos\SQLITE_DEMO\SQLITE_DEMO\SQLITE_DEMO\bin\Debug\netstandard2.0\SQLITE_DEMO.dll
+C:\Users\RABI\source\repos\SQLITE_DEMO\SQLITE_DEMO\SQLITE_DEMO\bin\Debug\netstandard2.0\ref\SQLITE_DEMO.dll
+C:\Users\RABI\source\repos\SQLITE_DEMO\SQLITE_DEMO\SQLITE_DEMO\bin\Debug\netstandard2.0\SQLITE_DEMO.pdb
+C:\Users\RABI\source\repos\SQLITE_DEMO\SQLITE_DEMO\SQLITE_DEMO\obj\Debug\netstandard2.0\SQLITE_DEMO.csprojAssemblyReference.cache
+C:\Users\RABI\source\repos\SQLITE_DEMO\SQLITE_DEMO\SQLITE_DEMO\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RABI\source\repos\SQLITE_DEMO\SQLITE_DEMO\SQLITE_DEMO\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\RABI\source\repos\SQLITE_DEMO\SQLITE_DEMO\SQLITE_DEMO\obj\Debug\netstandard2.0\SQLITE_DEMO.AssemblyInfoInputs.cache
+C:\Users\RABI\source\repos\SQLITE_DEMO\SQLITE_DEMO\SQLITE_DEMO\obj\Debug\netstandard2.0\SQLITE_DEMO.AssemblyInfo.cs
+C:\Users\RABI\source\repos\SQLITE_DEMO\SQLITE_DEMO\SQLITE_DEMO\obj\Debug\netstandard2.0\SQLITE_DEMO.dll
+C:\Users\RABI\source\repos\SQLITE_DEMO\SQLITE_DEMO\SQLITE_DEMO\obj\Debug\netstandard2.0\ref\SQLITE_DEMO.dll
+C:\Users\RABI\source\repos\SQLITE_DEMO\SQLITE_DEMO\SQLITE_DEMO\obj\Debug\netstandard2.0\SQLITE_DEMO.pdb
+C:\Users\RABI\source\repos\SQLITE_DEMO\SQLITE_DEMO\SQLITE_DEMO\obj\Debug\netstandard2.0\SQLITE_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\RABI\source\repos\SQLITE_DEMO\SQLITE_DEMO\SQLITE_DEMO\obj\Debug\netstandard2.0\SQLITE_DEMO.csproj.Fody.CopyLocal.cache
+C:\Users\RABI\source\repos\SQLITE_DEMO\SQLITE_DEMO\SQLITE_DEMO\obj\Debug\netstandard2.0\XamlC.stamp
